@@ -6,6 +6,7 @@ This project analyzes how Bitcoin market sentiment (Fear & Greed Index) influenc
 
 The objective is to uncover patterns and generate insights that can help design data-driven trading strategies.
 
+
 📁 Project Structure
 .
 ├── Data Science_Task.ipynb      # Main analysis notebook
