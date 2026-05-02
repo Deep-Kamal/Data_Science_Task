@@ -45,19 +45,7 @@ The objective is to uncover patterns and generate insights that can help design 
     Side (Buy/Sell)
     Timestamp
     Closed PnL
-
-```bash
-Install something
-```
-
-## Usage
-
-Explain how to test the project and give some example.
-
-```bash
-Example
-```
-
+ 
 ## ⚙️ Workflow
 1️⃣ Data Preprocessing
 
