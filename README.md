@@ -5,7 +5,7 @@
 🧠 Project Overview
 
 This project analyzes how Bitcoin market sentiment (Fear & Greed Index) influences trader performance (PnL) using real trading data.
-
+ 
 The objective is to uncover patterns and generate insights that can help design data-driven trading strategies.
 
 ## Instalation 
