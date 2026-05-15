@@ -47,7 +47,8 @@ The objective is to uncover patterns and generate insights that can help design 
     Closed PnL
  
 ## ⚙️ Workflow
-1️⃣ Data Preprocessing
+1️⃣ Data Preprocessing 
+
 
     Converted timestamps to datetime
     Extracted daily trading activity
