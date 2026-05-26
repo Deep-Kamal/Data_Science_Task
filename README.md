@@ -2,7 +2,7 @@
  
 📊 Trading Behavior vs Market Sentiment Analysis
 
-🧠 Project Overview
+🧠 Project Overview  
 
 This project analyzes how Bitcoin market sentiment (Fear & Greed Index) influences trader performance (PnL) using real trading data.
  
